@@ -1,1 +1,1 @@
-# evargus
+# evargus - учебный проект
